@@ -1,5 +1,6 @@
 # pytest-ui-automatic
-Just a [Playwright Python](https://github.com/Microsoft/playwright-python) tool practice
+[Playwright Python](https://github.com/Microsoft/playwright-python) tool practice
+pytest pytest-bdd screen-play page-object allure cucumber-report
 
 ## How to run
 1. Run tests `execute_tests.sh`
@@ -25,6 +26,11 @@ node generate-html-report.js
 
 npm install multiple-cucumber-html-reporter 
 node generate-multiple-cucumber-html-report.js 
+
+![cucumber report 1](cucumber-report-1.png)
+
+![cucumber report 2](cucumber-report-2.png)
+
 
 ## Pytest BDD
 
