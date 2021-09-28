@@ -1,0 +1,41 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+allure-pytest = "*"
+allure-python-commons = "*"
+httpx = "*"
+playwright = "1.14.1"
+pytest = "*"
+pytest-asyncio = "*"
+pylint-fail-under = "*"
+pytest-xdist = "*"
+pytest-bdd = "*"
+pytest-factoryboy = "*"
+pytest-cov = "*"
+pytest-rerunfailures = "*"
+playwright-stealth = "*"
+pytest-playwright = "*"
+pytest-playwright-snapshot = "*"
+pytest-html = "*"
+pytest-html-reporter = "*"
+pytest-metadata = "*"
+pytest-order = "*"
+simplejson = "*"
+pathlib = "*"
+py = "*"
+pytest-reportportal = "*"
+pyleniumio = "*"
+
+requests = "*"
+faker = "*"
+PyHamcrest = "*"
+screenpy = "*"
+selenium = "*"
+
+[requires]
+python_version = "3.9"

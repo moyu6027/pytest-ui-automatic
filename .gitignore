@@ -1,0 +1,8 @@
+.idea
+Pipfile.lock
+**/__pycache__/
+**/.pytest_cache/
+**/allure-results/
+**/allure-report/
+#**/screenshots/*.png
+#**/video/*.webm
